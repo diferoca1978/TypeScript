@@ -1,0 +1,12 @@
+{
+  "name": "02-purets",
+  "version": "1.0.0",
+  "description": "1. Run ``` tsc --init ``` to initialize TypeScript project and create a tsconfig.json file.\r 2. Run ``` npm init -y ``` to initialize a node project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
